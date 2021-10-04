@@ -3,7 +3,6 @@
 - 📫 My Email Is Awireisme046@gmail.com .
 - 😔 Hoping One day I will be able to get an offical Software certificate so I can expand into the mac community.
 
-<!---
-Awire9966/Awire9966 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![image](https://user-images.githubusercontent.com/65136929/135912243-987dcb6e-7856-4cd8-aeea-04ec2c95bfbb.png)
+:)
+
