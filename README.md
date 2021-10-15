@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Awire9966
-- 👀 I’m interested in make simple and effective programs for windows. I also do alot of work in Javascript and HTML.
+- 👀 I’m interested in making simple and effective programs for windows. I also do alot of work in Javascript and HTML.
 - 📫 My Email Is Awireisme046@gmail.com .
 - 😔 Hoping One day I will be able to get an offical Software certificate so I can expand into the mac community.
 
