@@ -6,4 +6,4 @@
 
 
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Awire9966)](https://awiresoftware.netlify.app/)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Awire9966&show_icons=true&theme=chartreuse-dark)](https://awiresoftware.netlify.app/)
