@@ -3,6 +3,7 @@
 - 📫 My Email Is awireisme046@gmail.com .
 - 😔 Hoping One day I will be able to get an offical Software certificate so I can expand into the mac community.
 - https://awiresoftware.netlify.app/
+- Favorite Programs: [Youtube-dl](https://yt-dl.org/) and [FFmpeg](http://ffmpeg.org/)
 
 
 
