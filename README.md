@@ -1,5 +1,6 @@
 - 👋 Hi, I’m [@Awire9966](https://github.com/Awire9966)
 - 13
+-C++ is overrated
 - NY
 - I do alot of programming from school goofs to programs for windows computers.
 - 👀 I’m interested in making simple and effective programs for windows. I also do alot of work in Javascript and HTML.
