@@ -1,6 +1,5 @@
 - 👋 Hi, I’m [@Awire9966](https://github.com/Awire9966)
 - 13
-- My Monero Wallet Adress: 4AsrjbfY8dcELBwgjS7kfz1FhUjeFmP431uMeyZgMmuHae73re1wEwu1YgBSc8cNMZGfb7MpMLsHN8ckZq4h43KJD9AEr1z
 - NY
 - I do alot of programming from school goofs to programs for windows computers.
 - 👀 I’m interested in making simple and effective programs for windows. I also do alot of work in Javascript and HTML.
