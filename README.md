@@ -13,6 +13,6 @@
 <img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gf"/>  
 
 
-[![Awires's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awire9966&theme=chartreuse-dark)](http://awiresoftware.xyz) [![Awires's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Awire9966&count_private=true&hide=procfile&theme=chartreuse-dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=50&custom_title=Most%20Used%20Coding%20Languages)](http://awiresoftware.xyz)
+[![Awires's GitHub stats](https://ghs-awire9966.vercel.app/api?username=Awire9966&theme=chartreuse-dark)](http://awiresoftware.xyz) [![Awires's GitHub stats](https://ghs-awire9966.vercel.app/api/top-langs?username=Awire9966&count_private=true&hide=procfile&theme=chartreuse-dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=50&custom_title=Most%20Used%20Coding%20Languages)](http://awiresoftware.xyz)
 <img src="https://discord.c99.nl/widget/theme-1/892170020673716274.png">
 
