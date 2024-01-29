@@ -5,7 +5,6 @@
 - I do alot of programming from school goofs to programs for windows computers.
 - 👀 I’m interested in making simple and effective programs for windows. I also do alot of work in Javascript and HTML.
 - 📫 My Email Is awireisme046@gmail.com .
-- 😔 Hoping One day I will be able to get an offical Software certificate so I can expand into the mac community.
 -  [awiresoftware.xyz](http://awiresoftware.xyz)
 - Favorite Programs: [ytdlp](https://github.com/yt-dlp/yt-dlp) and [FFmpeg](http://ffmpeg.org/)
 - Lauguages I know (best known to least known):                                                                           
