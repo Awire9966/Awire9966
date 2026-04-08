@@ -3,7 +3,7 @@
 - NY
 - Figured out how to jailbreak school chromebooks!
 - I do alot of programming from school goofs to programs for windows computers.
-- 👀 I’m interested in making simple and effective programs for windows. I also do alot of work in Javascript and HTML.
+- 👀 I’m interested in learning more about microcontrollers, playing with raspberry pis, and learning C++ and Java.
 - 📫 My Email Is awireisme046@gmail.com .
 -  [ppacsharp.xyz](https://ppacsharp.xyz)
 - Favorite Programs: [ytdlp](https://github.com/yt-dlp/yt-dlp) and [FFmpeg](http://ffmpeg.org/)
