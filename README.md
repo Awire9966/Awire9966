@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@Awire9966](https://github.com/Awire9966)
-- 16
+- 17
 - NY
 - Figured out how to jailbreak school chromebooks!
 - I do alot of programming
