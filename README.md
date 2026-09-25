@@ -6,7 +6,7 @@
 - 👀 I’m interested in learning more about microcontrollers, playing with raspberry pis, and learning C++ and Java.
 - 📫 My Email Is awireisme046@gmail.com .
 -  [ppacsharp.xyz](https://ppacsharp.xyz)
--  phone: (899) 867-5309
+-  phone: [(899) 867-5309](https://music.youtube.com/watch?v=6WTdTwcmxyo)
 - Favorite Programs: [ytdlp](https://github.com/yt-dlp/yt-dlp) and [FFmpeg](http://ffmpeg.org/)
 - Lauguages I know (best known to least known):                                                                           
 <img src="https://cdn.discordapp.com/emojis/960641747422179428.webp" alt="csharp" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/lua/lua-original.svg" alt="lua" width="45" height="45"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
